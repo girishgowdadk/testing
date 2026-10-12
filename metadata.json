@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Mismatch Categorizer",
+  "description": "An intelligent tool to detect and categorize mismatches between invoices, POs, and LYNX extracts.",
+  "requestFramePermissions": []
+}
